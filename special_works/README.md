@@ -10,20 +10,17 @@ Each special works project has its own folder with a README that includes links 
 You will have three (3) special works projects.
 Your goal is to review all three and choose one that requires a skill that you identified as weak in the pre-semester survey and prepare at least two different methodologies for solving it.
 
-You may present your solution in one of two ways:
+You may present your solutions in one of two ways:
 
 1. Written submission
     
-    A detailed decription of your methods beginning with an empty project (for those who chose the analysis focus) or empty notebook (for those who chose the programming focus).
+    A detailed decription of your methods beginning with an empty project (e.g., for those who chose the analysis focus) or empty notebook (e.g., for those who chose the programming focus).
     You may use any additional tools or references to help you answer the problem; however, they must be included in your solution methods using a step-by-step explanation.
-    You may include screenshots, figures, images, tables, or other graphics/media.
-    This method is valid only for "Basic Level" submissions.
+    Your solution should include screenshots, figures, images, tables, or other graphics/media where appropriate.
 2. Video submission
 
     A reproducible depiction of your methods beginning with an empty project (e.g., for those who chose the analysis focus) or an empty notebook (e.g., for those who chose the programming focus).
     You may use any additional tools or references to help you answer the problem; however, they must be included and explained in your video.
-    This method is valid for basic to advanced submissions.
-    The time limit of video submissions is based on your responses to the [discussion question](https://github.com/cga-wm/advgis-delta/discussions/6).
 
 Each project has tiered levels for completion.
 Consider the "Basic Level" for "Fully Meets Expectations" and the "Intermediate Level" for "Exceeds Expectations" (GIS 420 students) or "Advanced Level" for "Exceeds Expectations" (GIS 520 students).
