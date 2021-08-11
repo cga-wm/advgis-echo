@@ -1,8 +1,8 @@
 # Special Works Projects
 This folder contains the specials works projects you are challenged to solve.
-Each special works project has its own folder with a README that includes links to an introduction video or podcast, GitHub discussion and a shared Google doc.
+Each special works project has its own folder with a README that includes links to an introduction video or podcast, GitHub issue and a shared Google doc.
 
-* The discussion board provides a time-stamped chronology of questions and answers.
+* The issue provides a time-stamped chronology of questions and answers.
 * Use the Google doc for real-time collaboration, as you can simultaneously edit, reorganize, comment, and share ideas.
 
 **Undergraduate Consultancies**
