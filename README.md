@@ -1,6 +1,12 @@
 # Welcome
 This is the [echo-squad's](https://github.com/orgs/cga-wm/teams/echo-squad) repository for addressing geospatial problems in Advanced GIS (Fall 2021).
 
+### Quick Links
+
+* [Discussions](https://github.com/orgs/cga-wm/teams/echo-squad/discussions)
+* [Issues](https://github.com/cga-wm/advgis-echo/issues)
+* [Website](https://cga-wm.github.io/course/adv-gis/index.html)
+
 ### Overview
 I plan to utilize GitHub as our main repository for this course. 
 If you have never used GitHub before, don't worry, I only plan to use a limited amount of GitHub's capabilities, namely: a place for sharing documents (Code), a place for tracking questions and answers (Issues), and place for group conversations (Discussions).
