@@ -59,7 +59,7 @@ and answer the following questions:
 * Which of these three methods do you think is the best at representing the missing values between sensor measurements?
 
 ### GitHub Issue
-[Special Works 2 (issue)]() **TODO**
+[Special Works 2 (issue)](https://github.com/cga-wm/advgis-echo/issues/3) 
 
 ### Shared Google Doc
 [Special Works 2 (.gdoc)](https://docs.google.com/document/d/1b0H8jBVHK8BOR0ewy-RggUPlpXgCi9b4F_hIriLJt9g/edit?usp=sharing)
