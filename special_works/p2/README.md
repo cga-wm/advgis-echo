@@ -6,7 +6,7 @@ A client has asked you to reproduce eight figures they found &sect;6.4.1.1 in th
 
 Listen to Dr. Davis talk about this project [here (.mp3)](https://drive.google.com/file/d/12vqrKze-92e7VQGlJSv-D_s0TpjJa8kC/view).
 
-Figures 43 through 50 represent seasonal soil water potential (i.e., a measure of how dry the soil is---the more negative the measurement, the higher the potential, the drier the soil) from 25 sensors over a two-year period (2010--2012).
+Figures 45 through 48 represent seasonal 2011 soil water potential (i.e., a measure of how dry the soil is---the more negative the measurement, the higher the potential, the drier the soil) from 25 sensors.
 Table 19 shows the starting and ending dates for each of the seasons used in the analysis and Table 20 shows the sensor node identifying numbers (i.e., sensor node IDs) for the 25 sensors used in the analysis.
 
 You are only provided with the monthly average soil water potential measurements for the 25 sensors listed in Table 20.
@@ -58,8 +58,8 @@ and answer the following questions:
 * What are the strengths and weaknesses of each method?
 * Which of these three methods do you think is the best at representing the missing values between sensor measurements?
 
-### GitHub Discussion
-[Special Works 2 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/8)
+### GitHub Issue
+[Special Works 2 (issue)]() **TODO**
 
 ### Shared Google Doc
 [Special Works 2 (.gdoc)](https://docs.google.com/document/d/1b0H8jBVHK8BOR0ewy-RggUPlpXgCi9b4F_hIriLJt9g/edit?usp=sharing)
