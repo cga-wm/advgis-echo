@@ -6,6 +6,7 @@ This is the [echo-squad's](https://github.com/orgs/cga-wm/teams/echo-squad) repo
 * [Discussions](https://github.com/orgs/cga-wm/teams/echo-squad/discussions)
 * [Issues](https://github.com/cga-wm/advgis-echo/issues)
 * [Website](https://cga-wm.github.io/course/adv-gis/index.html)
+* [Weekly Reporting Wiki](https://github.com/cga-wm/advgis-echo/wiki)
 
 ### Overview
 I plan to utilize GitHub as our main repository for this course. 
