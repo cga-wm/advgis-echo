@@ -24,8 +24,8 @@ You must keep track of your methods and research; your process has to be reprodu
 Utilize our GitHub Issue tracker for asking/answering questions.
 Please include the label "Special Works" with your issue.
 
-### GitHub Discussion
-[Special Works 1 (discussion board)]()
+### GitHub Issue
+[Special Works 1 (issue)](https://github.com/cga-wm/advgis-echo/issues/2)
 
 ### Shared Google Doc
 [Special Works 1 (.gdoc)](https://docs.google.com/document/d/1eiRrSWErFvqwudQ_qgwSZM1u0zcBqWBCQ4pzoE2guHU/edit?usp=sharing)
