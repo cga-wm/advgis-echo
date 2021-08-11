@@ -13,7 +13,7 @@ Hear Professor Davis explain more about this project [here (.mp3)](https://drive
 
 Follow the outline of watershed delineation process to determine the area of land that drains through the Salvador Creek at (or near) the location of the client's irrigation pump.
 
-1.  Find 10 m elevation data for the Napa, CA region
+1.  Find 10 m elevation data for the Napa, CA region (make sure you know what resampling technique to use)
 2.  Follow the summarized steps below to define the watershed that has an outlet located at (or near) their irrigation station
 3.  Calculate the area of that watershed
 4.  Keep track of all the steps that you take, all the geoprocessing tools you use, all the research/reference articles you utilize, and all collaborations you are involved in (and the time you spent doing them)
