@@ -63,3 +63,6 @@ and answer the following questions:
 
 ### Shared Google Doc
 [Special Works 2 (.gdoc)](https://docs.google.com/document/d/1b0H8jBVHK8BOR0ewy-RggUPlpXgCi9b4F_hIriLJt9g/edit?usp=sharing)
+
+### References
+"Intro to GIS and Spatial Analysis" by Manuel Gimond. Copyright 2021.
