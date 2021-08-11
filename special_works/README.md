@@ -27,12 +27,12 @@ Consider the "Basic Level" for "Fully Meets Expectations" and the "Intermediate 
 
 ### Project Summaries
 
-| Project | Description |
-| ------- | ----------- |
-| Project 1 | Figure Reproduction |
-| Project 2 | Spatial Interpolation |
-| Project 3 | Watershed Delineation |
-| Project 4 | Geocoding |
-| Project 5 | Minimum Driving Distance |
-| Project 6 | Table Query and Join |
-| Project 7 | Projections and Transformations |
+| Project | Description | Assigned Teams |
+| ------- | ----------- | :------------- |
+| Project 1 | Figure Reproduction | TBA |
+| Project 2 | Spatial Interpolation | TBA |
+| Project 3 | Watershed Delineation | TBA |
+| Project 4 | Geocoding | TBA |
+| Project 5 | Minimum Driving Distance | TBA |
+| Project 6 | Table Query and Join | TBA |
+| Project 7 | Projections and Transformations | TBA |
