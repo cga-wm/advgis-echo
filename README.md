@@ -1,5 +1,5 @@
 # Welcome
-This is the [echo-squad's](https://github.com/orgs/cga-wm/teams/echo-squad) repository for addressing geospatial problems in Advanced GIS (Fall 2021).
+This is the [echo-squad's](https://github.com/orgs/cga-wm/teams/echo-squad) repository for addressing geospatial problems in Advanced GIS (Fall 2021). This is a good website to star in your browser.
 
 ### Quick Links
 
