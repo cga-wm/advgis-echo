@@ -17,7 +17,7 @@
     - An outline of tasks (including milestones accomplished and those left to be accomplished)
     - An estimate of time to complete the remaining tasks (if any)
     - Current challenges, impressions, thoughts regarding the article
-6. Schedule a meeting with your client (see the [sign-up sheet](https://docs.google.com/spreadsheets/d/1P_bfKUewFq822j0oV-ZW-Sbj68QTVjEWy5Uk-xf85Y4/edit?usp=sharing)) to overview your progress
+6. Schedule a meeting with your client (see the [sign-up sheet](https://docs.google.com/spreadsheets/d/18rArUjK1Yq-Td0zPV9sLlIH4h9k0C4euAnDD3ljlhhI/edit?usp=sharing)) to overview your progress
 
 **Literature review and finding data**
 
