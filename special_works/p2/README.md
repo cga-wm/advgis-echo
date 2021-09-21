@@ -20,7 +20,7 @@ You can find a table that pairs the old and new IDs (see [old-to-new-ids.tsv](./
 
 **Basic Level**
 
-Your task is to recreate these eight figures to show how water potential changes seasonally over a hillslope in a forested region.
+Your task is to recreate figures of four seasons (Autumn 2010 to Summer 2011) to show how water potential changes seasonally over a hillslope in a forested region.
 Please try to match the symbology (see legend).
 Be sure to read this section of the dissertation for more details.
 Remember, you may employ any tools and techniques you want to arrive at the solution.
