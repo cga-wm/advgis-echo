@@ -22,10 +22,10 @@ When determining driving distances, sometimes it is helpful to have some basic s
 
 Perform two point pattern analyses.
 
-1. [Centrography] (https://mgimond.github.io/Spatial/chp11-0.html#centrography)
+1. [Centrography](https://mgimond.github.io/Spatial/chp11_0.html#centrography) URL in case link doesn't work: https://mgimond.github.io/Spatial/chp11_0.html#centrography
     * Calculate the mean center, standard distance and standard deviational ellipse of the point locations used for computing the minimum driving distance
     * Create a figure that overlays these features with the original point locations
-2. [Distance based analysis] (https://mgimond.github.io/Spatial/chp11-0.html#distance-based-analysis)
+2. [Distance based analysis](https://mgimond.github.io/Spatial/chp11-0.html#distance-based-analysis)  URL in case the link doesn't work: https://mgimond.github.io/Spatial/chp11_0.html#distance-based-analysis 
     * Compute the average nearest neighbor (ANN) in miles using the minimum driving distances found in the Basic Level analysis
 
 **Advanced Level** (_GIS 520_)
